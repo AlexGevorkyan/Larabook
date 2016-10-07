@@ -29,11 +29,11 @@ a:focus {
 }
 .dleft{
 	float:left;
-	border: 1px solid blue;
+	/*border: 1px solid blue;*/
 }
 .dright{
 	float:left;
-	border: 1px solid blue;
+	/*border: 1px solid blue;*/
 }
 div{
 	box-sizing:border-box;
